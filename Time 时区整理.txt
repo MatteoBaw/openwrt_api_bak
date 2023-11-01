@@ -1,0 +1,362 @@
+"UTC"（0）
+
+'<+02>-2' (1)
+"Etc/GMT-2"	
+
+'<-12>12' (1)
+"Etc/GMT+12"	
+
+'<-07>7' (1)
+"Etc/GMT+7"	
+
+'EET-2EEST,M2.5.4/24,M10.5.5/1'	（1）
+"Asia/Amman"									
+
+'<+00>0<+02>-2,M3.5.0/1,M10.5.0/3'	（1）
+"Antarctica/Troll"								
+
+'EET-2EEST,M3.5.0/0,M10.5.0/0' （1）
+"Asia/Beirut"							
+
+'HST10HDT,M3.2.0,M11.1.0' （1）
+"America/Adak"	
+
+'<-0930>9:30'	(1)
+"Pacific/Marquesas"								
+
+'<+11>-11<+12>,M10.1.0,M4.1.0/3'	(1)
+"Pacific/Norfolk"	
+
+'<+1245>-12:45<+1345>,M9.5.0/2:45,M4.1.0/3:45'	(1)
+"Pacific/Chatham"								
+
+'<-06>6<-05>,M9.1.6/22,M4.1.6/22'		(1)
+"Pacific/Easter"								
+
+'<+12>-12<+13>,M11.2.0,M1.2.3/99'		(1)
+"Pacific/Fiji"									
+
+'HST10'								(1)
+"Pacific/Honolulu"	
+
+'<+0530>-5:30'						(1)		
+"Asia/Colombo"	
+
+'<+0430>-4:30'						(1)	
+"Asia/Kabul"	
+
+'<+0545>-5:45'						(1)	
+"Asia/Kathmandu"								
+
+'<+0330>-3:30'						(1)
+"Asia/Tehran"	
+	
+'<+0630>-6:30'						(1)
+"Asia/Yangon"									
+
+'<+0845>-8:45'						(1)
+"Australia/Eucla"
+	
+'<+0630>-6:30'						(1)		
+"Indian/Cocos"	
+
+'EET-2EEST,M3.5.5/0,M10.5.5/0'		(1)
+"Asia/Damascus"									
+
+'HKT-8'	(1)
+"Asia/Hong Kong"								
+
+'WIT-9'	(1)
+"Asia/Jayapura"	
+								
+'IST-2IDT,M3.4.4/26,M10.5.0'	(1)
+"Asia/Jerusalem"								
+
+'PKT-5'	(1)
+"Asia/Karachi"									
+
+'IST-5:30'	(1)
+"Asia/Kolkata"									
+
+'WITA-8'	(1)
+"Asia/Makassar"									
+
+'PST-8'		(1)
+"Asia/Manila"									
+
+'JST-9'		(1)
+"Asia/Tokyo"
+
+'ACST-9:30'		(1)
+"Australia/Darwin"								
+
+'<+1030>-10:30<+11>-11,M10.1.0,M4.1.0'	(1)
+"Australia/Lord Howe"							
+
+'AWST-8'			(1)
+"Australia/Perth"								
+
+'EET-2EEST,M3.5.0,M10.5.0/3'	(1)
+"Europe/Chisinau"
+								
+'IST-1GMT0,M10.5.0,M3.5.0/1'	(1)
+"Europe/Dublin"		
+
+'<-03>3<-02>,M3.2.0,M11.1.0' （1）
+"America/Miquelon"								
+
+'CST5CDT,M3.2.0/0,M11.1.0/1'	（1）
+"America/Havana"														
+
+'<-04>4<-03>,M10.1.0/0,M3.4.0/0'（1）
+"America/Asuncion"	
+
+'<-03>3<-02>,M3.5.0/-2,M10.5.0/-1'	（1）
+"America/Nuuk"									
+
+'<-04>4<-03>,M9.1.6/24,M4.1.6/24'	（1）
+"America/Santiago"								
+
+'NST3:30NDT,M3.2.0,M11.1.0'		（1）
+"America/St Johns"						
+
+'PST8PDT,M3.2.0,M11.1.0' （2）
+"America/Tijuana""America/Vancouver"
+
+'CET-1'（2）
+"Africa/Algiers" "Africa/Tunis"	
+
+'KST-9'   (2)
+"Asia/Pyongyang""Asia/Seoul"
+
+'<-01>1'  (2)
+"Atlantic/Cape Verde" "Etc/GMT+1"	
+
+'EET-2EEST,M3.4.4/72,M10.4.4/25' (2)
+"Asia/Gaza"	"Asia/Hebron"									
+
+'<-11>11' (2)
+"Pacific/Niue"	"Etc/GMT+11"
+
+'<-08>8'(2)
+"Pacific/Pitcairn""Etc/GMT+8"	
+
+'<+14>-14'(2)
+"Etc/GMT-14" "Pacific/Kiritimati"		
+
+'ChST-10'	(2)
+"Pacific/Saipan" "Pacific/Guam"		
+
+'SST11'		(2)
+"Pacific/Midway" "Pacific/Pago Pago"	
+
+'MSK-3'			(2)
+"Europe/Simferopol"	"Europe/Moscow"	
+
+'WIB-7' (2)
+"Asia/Jakarta" "Asia/Pontianak"	
+								
+'AEST-10'	(2)
+"Australia/Brisbane" "Australia/Lindeman"							
+
+'ACST-9:30ACDT,M10.1.0,M4.1.0/3'	(2)
+"Australia/Adelaide" "Australia/Broken Hill"	
+
+'<-09>9' (2)
+"Etc/GMT+9"	"Pacific/Gambier"
+
+'<-06>6' (2)
+"Etc/GMT+6"	"Pacific/Galapagos"	
+
+'NZST-12NZDT,M9.5.0,M4.1.0/3'		（2）
+"Antarctica/McMurdo" "Pacific/Auckland"							
+
+'MST7MDT,M4.1.0,M10.5.0'	（2）
+"America/Mazatlan""America/Chihuahua"	
+
+'<-01>1<+00>,M3.5.0/0,M10.5.0/1'	（2）
+"America/Scoresbysund" "Atlantic/Azores"
+
+'CST-8' (3)
+"Asia/Macau" "Asia/Shanghai" "Asia/Taipei"	
+
+'<-02>2'  （3）
+"America/Noronha" "Atlantic/South Georgia""Etc/GMT+2"
+
+'<-10>10'  (3)
+"Etc/GMT+10""Pacific/Tahiti""Pacific/Rarotonga"	
+
+'SAST-2' （3）
+"Africa/Johannesburg" "Africa/Maseru" "Africa/Mbabane"
+	
+'EET-2'（3）
+"Africa/Cairo" "Africa/Tripoli"	"Europe/Kaliningrad"							
+
+'<+01>-1'	（3）						
+"Africa/Casablanca"	"Africa/El Aaiun" "Etc/GMT-1"
+
+'AEST-10AEDT,M10.1.0,M4.1.0/3'		（4）
+"Antarctica/Macquarie""Australia/Hobart""Australia/Melbourne""Australia/Sydney"	
+
+'WET0WEST,M3.5.0/1,M10.5.0'			(4)
+"Atlantic/Canary" "Atlantic/Faroe""Atlantic/Madeira""Europe/Lisbon"									
+
+'GMT0BST,M3.5.0/1,M10.5.0'			(4)
+"Europe/London"	"Europe/Guernsey""Europe/Isle of Man""Europe/Jersey"									
+
+'CST6CDT,M4.1.0,M10.5.0' （4）
+"America/Bahia Banderas" "America/Merida" "America/Mexico City" "America/Monterrey"
+
+'EST5'	（5）																							
+"America/Atikokan""America/Cancun""America/Cayman""America/Jamaica""America/Panama"
+
+'<+13>-13'		(5)											
+"Pacific/Kanton""Pacific/Apia""Pacific/Tongatapu""Etc/GMT-13"
+"Pacific/Fakaofo"
+
+'<-05>5' （6）
+"America/Bogota" "America/Eirunepe"	"America/Guayaquil"	"America/Lima" 
+"America/Rio Branco" "Etc/GMT+5"
+
+'AKST9AKDT,M3.2.0,M11.1.0' （6）
+"America/Juneau" "America/Anchorage""America/Metlakatla" "America/Nome" 
+"America/Sitka" "America/Yakutat"															
+
+'AST4ADT,M3.2.0,M11.1.0' （6）
+"America/Glace Bay"	"America/Goose Bay"	"America/Halifax" "America/Moncton"								
+"America/Thule"	"Atlantic/Bermuda"	
+
+'<+09>-9' （6）
+"Etc/GMT-9""Pacific/Palau""Asia/Chita""Asia/Dili"
+"Asia/Khandyga""Asia/Yakutsk"									
+
+'<+10>-10' （6）
+"Etc/GMT-10""Asia/Ust-Nera""Asia/Vladivostok""Antarctica/DumontDUrville"
+"Pacific/Port Moresby""Pacific/Chuuk"
+
+'MST7MDT,M3.2.0,M11.1.0'（7）
+"America/Boise"	"America/Ojinaga" "America/Cambridge Bay"	"America/Edmonton"								
+"America/Denver" "America/Inuvik" "America/Yellowknife"	
+
+'MST7'（7）
+"America/Whitehorse" "America/Creston" "America/Dawson" "America/Dawson Creek" 
+"America/Fort Nelson" "America/Hermosillo" "America/Phoenix"
+
+'<+08>-8'（8）
+"Etc/GMT-8""Asia/Singapore""Asia/Kuala Lumpur""Asia/Kuching"									
+"Asia/Choibalsan""Asia/Brunei""Asia/Irkutsk""Asia/Ulaanbaatar"	
+
+'CST6' （8）
+"America/Belize" "America/Costa Rica" "America/El Salvador" "America/Guatemala"								
+"America/Managua" "America/Regina" "America/Swift Current"	"America/Tegucigalpa"	
+
+'<-04>4'   （9）
+"America/Boa Vista"	"America/Campo Grande"	"America/Caracas" "America/Cuiaba"								
+"America/Guyana""America/La Paz""America/Manaus""America/Porto Velho"
+"Etc/GMT+4"
+
+'EAT-3'（10）
+"Africa/Addis Ababa" "Africa/Asmara" "Africa/Dar es Salaam"	"Africa/Djibouti"														
+"Africa/Kampala" "Africa/Mogadishu"	"Africa/Nairobi" "Indian/Antananarivo" 
+"Indian/Comoro"	"Indian/Mayotte"
+
+'<+06>-6'（10）
+"Etc/GMT-6"	"Indian/Chagos"	"Asia/Thimphu" "Asia/Urumqi"
+"Asia/Omsk" "Asia/Qostanay""Antarctica/Vostok""Asia/Almaty"
+"Asia/Bishkek""Asia/Dhaka"									
+
+'<+12>-12'  (10)
+"Pacific/Tarawa" "Pacific/Wake"	"Pacific/Wallis" "Asia/Anadyr"
+"Asia/Kamchatka""Etc/GMT-12" "Pacific/Kwajalein""Pacific/Majuro"
+"Pacific/Funafuti" "Pacific/Nauru"	
+
+'WAT-1'（11）
+"Africa/Bangui"	"Africa/Brazzaville" "Africa/Douala" "Africa/Kinshasa"								
+"Africa/Lagos" "Africa/Libreville" "Africa/Luanda" "Africa/Malabo"									
+"Africa/Ndjamena" "Africa/Niamey" "Africa/Porto-Novo"								
+							
+'CAT-2'（11）
+"Africa/Blantyre" "Africa/Bujumbura" "Africa/Gaborone"	"Africa/Harare"									
+"Africa/Juba" "Africa/Khartoum"	"Africa/Kigali"	"Africa/Lubumbashi"								
+"Africa/Lusaka"	"Africa/Maputo"	"Africa/Windhoek"	
+
+'<+11>-11'	（11）
+"Pacific/Bougainville" "Pacific/Pohnpei""Pacific/Noumea""Pacific/Kosrae" 
+"Pacific/Guadalcanal" "Pacific/Efate"	"Etc/GMT-11" "Antarctica/Casey"	
+"Asia/Srednekolymsk" "Asia/Sakhalin"	"Asia/Magadan"
+
+'CST6CDT,M3.2.0,M11.1.0'（12）
+"America/North Dakota/Center" "America/Chicago" "America/Indiana/Knox"	"America/Indiana/Tell City" 
+"America/Matamoros"	"America/Menominee"	"America/North Dakota/Beulah"   "America/North Dakota/New Salem"
+"America/Rainy River" "America/Rankin Inlet" "America/Resolute" "America/Winnipeg"
+
+'<+03>-3' （12）
+"Asia/Kuwait""Asia/Qatar""Asia/Riyadh""Etc/GMT-3"
+"Europe/Istanbul""Europe/Kirov""Europe/Minsk""Asia/Aden" 
+"Antarctica/Syowa""Asia/Baghdad" "Asia/Bahrain" "Europe/Volgograd"
+
+'<+04>-4' （13）
+"Indian/Mahe""Europe/Ulyanovsk"	"Indian/Mauritius"	"Indian/Reunion"								
+"Europe/Samara""Europe/Saratov"	"Europe/Astrakhan""Etc/GMT-4"										
+"Asia/Tbilisi" "Asia/Yerevan" "Asia/Muscat" "Asia/Dubai" 
+"Asia/Baku"	
+
+'EET-2EEST,M3.5.0/3,M10.5.0/4'	(13)
+"Europe/Mariehamn""Europe/Kyiv"	"Europe/Riga""Europe/Athens"
+"Europe/Bucharest""Europe/Helsinki" "Asia/Nicosia" "Asia/Famagusta" 
+"Europe/Sofia""Europe/Tallinn" "Europe/Uzhgorod" "Europe/Vilnius" 
+"Europe/Zaporozhye"	
+
+'<+07>-7' （13）
+"Asia/Tomsk""Asia/Phnom Penh""Antarctica/Davis"	"Asia/Bangkok"									
+"Asia/Barnaul""Asia/Ho Chi Minh""Asia/Hovd"	"Asia/Krasnoyarsk"
+"Asia/Novokuznetsk"	"Asia/Novosibirsk""Asia/Vientiane""Etc/GMT-7"	
+"Indian/Christmas"	
+
+'<+05>-5' （14）
+"Asia/Aqtau" "Antarctica/Mawson" "Asia/Aqtobe" "Asia/Ashgabat" 
+"Asia/Atyrau" "Asia/Dushanbe" "Asia/Oral" "Asia/Qyzylorda" 
+"Asia/Samarkand" "Asia/Tashkent" "Asia/Yekaterinburg" "Etc/GMT-5" 
+"Indian/Kerguelen"	"Indian/Maldives"
+
+'GMT0'（17）
+"Africa/Abidjan""Africa/Accra""Africa/Bamako" "Africa/Banjul"													
+"Africa/Bissau""Africa/Conakry""Africa/Dakar""Africa/Freetown" 
+"Africa/Nouakchott""Africa/Ouagadougou""Africa/Lome""Africa/Monrovia" 
+"Africa/Sao Tome""America/Danmarkshavn""Etc/GMT""Atlantic/Reykjavik" 
+"Atlantic/St Helena"
+
+'EST5EDT,M3.2.0,M11.1.0' （19）
+"America/Indiana/Vevay"	"America/Indiana/Vincennes"	"America/Indiana/Winamac" "America/Iqaluit" 
+"America/Kentucky/Louisville" "America/Kentucky/Monticello" "America/Los Angeles" "America/Detroit"								
+"America/Grand Turk" "America/Indiana/Indianapolis" "America/Indiana/Marengo" "America/Indiana/Petersburg" 
+"America/Nassau" "America/New York" "America/Nipigon" "America/Pangnirtung" 
+"America/Port-au-Prince" "America/Toronto" "America/Thunder Bay"					
+														
+AST4（23）														
+"America/Anguilla"	"America/Antigua"	"America/Aruba"	"America/Barbados"								
+"America/Blanc-Sablon" 	"America/Curacao" "America/Dominica" "America/Grenada"								
+"America/Guadeloupe" "America/Kralendijk" "America/Marigot"	"America/Martinique"							
+"America/Lower Princes"	"America/Montserrat" "America/Port of Spain" "America/Puerto Rico"							
+"America/Santo Domingo"	"America/St Kitts" "America/St Lucia" "America/St Thomas"								
+"America/St Vincent" "America/St Barthelemy" "America/Tortola"	
+
+'<-03>3'（28）
+"America/Araguaina""America/Argentina/Buenos Aires""America/Argentina/Catamarca""America/Argentina/Cordoba"	
+"America/Argentina/Jujuy""America/Argentina/La Rioja""America/Argentina/Mendoza""America/Argentina/Rio Gallegos" 
+"America/Argentina/Salta""America/Argentina/San Juan" "America/Argentina/San Luis" "America/Argentina/Tucuman"						
+"America/Argentina/Ushuaia" "America/Belem"	"America/Bahia"	"America/Cayenne"								
+"America/Fortaleza"	"America/Maceio" "America/Montevideo" "Atlantic/Stanley"								
+"America/Paramaribo" "America/Punta Arenas"	"America/Recife" "America/Santarem"								
+"America/Sao Paulo"	"Antarctica/Palmer"	"Antarctica/Rothera" "Etc/GMT+3"	
+
+'CET-1CEST,M3.5.0,M10.5.0/3'  （33）
+"Europe/Andorra" "Europe/Amsterdam"	"Arctic/Longyearbyen" "Africa/Ceuta"									
+"Europe/Belgrade" "Europe/Berlin" "Europe/Bratislava" "Europe/Brussels"								
+"Europe/Budapest" "Europe/Busingen"	"Europe/Copenhagen"	"Europe/Gibraltar"								
+"Europe/Ljubljana" "Europe/Luxembourg"	"Europe/Madrid"	"Europe/Malta"									
+"Europe/Monaco" "Europe/Oslo" "Europe/Paris" "Europe/Podgorica"								
+"Europe/Prague" "Europe/Rome" "Europe/San Marino" "Europe/Sarajevo"								
+"Europe/Skopje"	"Europe/Stockholm" "Europe/Tirane" "Europe/Vaduz"									
+"Europe/Vatican" "Europe/Vienna" "Europe/Warsaw" "Europe/Zagreb"									
+"Europe/Zurich"		
